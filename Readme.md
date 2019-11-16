@@ -1,3 +1,3 @@
 Exercices d'introduction à Javascript
 
-Tout est ok desu !
+Tout est <em>ok desu !</em>
